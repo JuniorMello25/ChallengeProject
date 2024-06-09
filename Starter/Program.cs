@@ -6,7 +6,7 @@ foreach (int number in numbers)
 {
     total += number;
 
-    if (number == 4)
+    if (number == 42)
        found = true;
 }
 
