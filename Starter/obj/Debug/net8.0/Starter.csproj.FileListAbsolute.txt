@@ -1,0 +1,14 @@
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\jumel\OneDrive\Área de Trabalho\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
